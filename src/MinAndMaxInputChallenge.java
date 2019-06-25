@@ -30,6 +30,7 @@ public class MinAndMaxInputChallenge {
 
             }
             else{
+                System.out.println("min Number is "+min+" Max number is "+max);
                 break;
             }
 

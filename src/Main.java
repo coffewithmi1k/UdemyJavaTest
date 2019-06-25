@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[]args){
-        LargestPrime.getLargestPrime(21);
+        PaintJob.getBucketCount(3.4,1.5);
     }
 }
